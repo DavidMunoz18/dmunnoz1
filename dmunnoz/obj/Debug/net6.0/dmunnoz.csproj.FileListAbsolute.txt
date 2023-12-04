@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\bin\Debug\net6.0\dmunnoz.exe
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\bin\Debug\net6.0\dmunnoz.deps.json
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\bin\Debug\net6.0\dmunnoz.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\bin\Debug\net6.0\dmunnoz.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\bin\Debug\net6.0\dmunnoz.pdb
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\dmunnoz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\dmunnoz.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\dmunnoz.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\dmunnoz.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\dmunnoz.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\refint\dmunnoz.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\dmunnoz.pdb
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\dmunnoz.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnoz\obj\Debug\net6.0\ref\dmunnoz.dll
